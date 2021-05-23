@@ -16,7 +16,7 @@ import sk.uniza.fri.sudora.notes.Note
 import sk.uniza.fri.sudora.notes.list.NoteListViewModel
 
 /**
- * Aplikacia pre spravu poznamok.
+ * Aplikacia pre spravu poznamok. Vstupny bod do aplikacie.
  *
  * @author Filip Sudora
  * @version 1.0

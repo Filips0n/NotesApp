@@ -114,6 +114,7 @@
             android:id="@+id/color_palette_background"
             android:layout_width="180dp"
             android:layout_height="40dp"
+            android:contentDescription="@string/background_of_palette_view"
             android:padding="2dp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="@+id/btn_palette"

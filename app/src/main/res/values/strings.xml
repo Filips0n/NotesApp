@@ -58,4 +58,6 @@
     <string name="note_title">\"Note Title: \"</string>
     <string name="note_text">\"Note Text: \"</string>
     <string name="text_plaint">text/plain</string>
+    <string name="todo">TODO</string>
+    <string name="background_of_palette_view">Background of palette view</string>
 </resources>
